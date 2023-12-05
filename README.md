@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @snehanshu2001
-- 👀 I’m interested in ...machine learning and deep learning
-- 🌱 I’m currently learning ...python
+- 👋 Hi, I’m Snehanshu Bhaskar
+- 👀 I’m Passinate about Full Stack Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
